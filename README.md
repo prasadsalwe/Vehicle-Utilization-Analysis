@@ -1,4 +1,6 @@
 # Vehicle-Utilization-Analysis
+This Project helps in identifying and reducing cost using powerbi vehicle utilzation adhoc analysis.
+
 
 Here are some snapshots .
 
